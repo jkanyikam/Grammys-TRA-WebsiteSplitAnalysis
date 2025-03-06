@@ -16,7 +16,7 @@ This data was provided by The Global Career Accelerator's database of various co
 
 - Based on the metrics quantified through cleaning and analyzing the data provided,  the Grammys and The Recording Academy websites should remain separate.
 - This conclusion was reached is due to the overwhelming majority of KPIs supporting the notion that audience engagement was improved by the companies' website split.
-- THe positive growth across various KPIs may be due to users' interests being catered to more specifically than on the relatively broad combined website.
+- The positive growth across various KPIs may be due to users' interests being catered to more specifically than on the relatively broad combined website.
 
 ## Contact
 
