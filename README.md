@@ -18,6 +18,6 @@ This data was provided by The Global Career Accelerator's database of various co
 - This conclusion was reached due to the overwhelming majority of KPIs supporting the notion that audience engagement was improved by the companies' website split.
 - The positive growth across various KPIs may be due the individualized sites catering to users' interest more specifically than the relatively broad combined website.
 
-## Contact
+## Contact Information
 
-LinkedIn: [www.linkedin.com/in/jaydon-anyikam](url)
+[LinkedIn](www.linkedin.com/in/jaydon-anyikam) [Email](jkanyikam@gmail.com)
